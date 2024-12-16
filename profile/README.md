@@ -59,3 +59,37 @@
 
 
 <br><br>
+
+# 📏 Convention
+### 🌐 FrontEnd
+
+#### Commit Convention
+- **`#이슈번호 [ConventionType] : 구현한 내용`** <br>
+
+#### Convention Type
+| convention type | description |
+| --- | --- |
+| `feat` | 새로운 기능 구현 |
+| `refactor` | 코드 리팩토링 |
+| `style` | 코드 의미에 영향을 주지 않는 변경사항 (코드 포맷팅, 오타 수정 등) |
+| `chore` | 빌드 부분 혹은 패키지 매니저 수정 사항 및 기타 변경사항 |
+| `fix` | 버그 수정 |
+| `remove` | 파일 및 코드 삭제 |
+
+#### Issue
+- Issue Title : **`[ConventionType] : 작업할 내용`**
+- 모든 작업은 `Issue`를 만든 후, 해당 이슈 번호에 대한 branch를 통해 수행
+- 수행할 작업에 대한 설명과 할 일을 작성
+
+#### Pull Request
+- Pull Request Title : **`[ContentionType] : 작업한 내용`**
+- 수행한 작업에 대한 설명을 작성하고 필요시 관련 스크린샷을 첨부
+- Reviewer, Assigner, Label, Project, Milestone, 관련 이슈를 태그
+- 작업 중 참고한 자료 혹은 reviewer에게 전할 내용이 있다면 하단에 작성
+
+#### Branch
+- Branch Name : **`이니셜/작업 내용`**
+- `Pull Request`를 통해 develop branch에 merge 후, 해당 branch 제거
+
+
+<br><br>
