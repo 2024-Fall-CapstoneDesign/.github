@@ -1,6 +1,7 @@
 ## NEWREALS
 > 개발 기간 : 2024.09 ~ ing <br>
 > 배포 주소 : https://new-reals-fe.vercel.app/
+
 ![image](https://github.com/user-attachments/assets/7b808f8d-c1c4-4270-b0ac-11905d817763)
 
 # 💗 팀 소개
