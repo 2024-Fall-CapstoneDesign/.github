@@ -6,7 +6,6 @@
 
 # 💗 팀 소개
 
-
 > **REAL NEWS, REAL SIMPLE!** <br>
 > 안녕하세요, 참여형 개인 맞춤 뉴스 서비스 ‘NEWREALS’입니다. <br>
 >
